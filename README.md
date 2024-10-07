@@ -96,6 +96,7 @@ The following Python function can be used to predict a single event’s classifi
 
 	•	Python: Core programming language for the project.
 	•	Jupyter Notebook: Used for the interactive coding environment.
+	•	Google Colab: Used for writing and executing code in a cloud-based environment.
 	•	scikit-learn: For model building and evaluation.
 	•	NumPy & Pandas: For data manipulation.
 	•	Matplotlib & Seaborn: For data visualization.
