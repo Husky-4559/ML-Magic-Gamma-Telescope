@@ -1,4 +1,4 @@
-# MAGIC Gamma Telescope Classification Project
+# MAGIC Gamma Telescope Classification
 
 
 This project aims to classify gamma-ray events in telescope data using machine learning techniques. The dataset is the MAGIC Gamma Telescope Dataset, which contains real-world data from the MAGIC telescopes used for identifying high-energy gamma particles. The goal of the project is to apply various machine learning models to classify events as gamma (signal) or hadron (background) events, contributing to the advancement of gamma-ray astronomy.
